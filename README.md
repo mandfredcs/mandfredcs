@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Mandfred Leow</h1>
+<h1 align="center">Hello! I'm Mandfred Leow</h1>
 <p align="center">
   <b>Software Engineering Intern @ Ensign InfoSecurity | Computer Science Graduate @ NTU | Superteam Singapore</b>
 </p>
