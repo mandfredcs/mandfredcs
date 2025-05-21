@@ -26,7 +26,7 @@ I'm a **Computer Science student at Nanyang Technological University (NTU)** wit
 
 ## 📌 Current Projects <br>
 🚀 Cybersecurity AI Assistant – Developing a machine-learning-based AI assistant for threat analysis.<br>
-💬 Decentralized GPU Renting Application – Creating a revolutionary way to rent out GPU usage on the Solana Blockchain.<br>
+💬 Decentralized GPU Renting Application ( Fluxor ) – Creating a startup providing anyone processing / computing power for training LLMs and processing batched data.<br>
 🌍 Full-Stack Web App – A Next.js & Firebase project focused on secure authentication.<br>
 
 ## 🏆 Work Experience  
